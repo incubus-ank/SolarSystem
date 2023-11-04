@@ -1,0 +1,10 @@
+.index_menu_planet {
+    /* width: max-content;
+    height: min-content; */
+    margin: auto;
+}
+
+.index_menu_planet  img{
+    padding: 10px;
+    margin: 0;
+}

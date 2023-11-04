@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+nav {
+    background-color: #303030;
+    font: 40px 'Source Code Pro', monospace;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    padding: 10;
+    text-decoration: none;
+    color: #eee;
+    padding: 6px 8px;
+    border-radius: 10px;
+}
+
+li a:hover{
+    background-color: #111
+}
+
+.logo {
+    float: left;
+}
