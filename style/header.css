@@ -2,7 +2,8 @@
 
 nav {
     background-color: #303030;
-    font: 40px 'Source Code Pro', monospace;
+    font: 3vw 'Source Code Pro', monospace;
+    font-size: 3vw;
 }
 
 ul {
