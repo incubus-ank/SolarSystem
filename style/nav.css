@@ -1,22 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
 
-header {
+nav {
     font: 2.5vw 'Source Code Pro', monospace;
-    
-    display: flex;
-    justify-content: space-between;
+    padding: 10px;
+    margin: 5px;
 
-    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #202020;
+    border-radius: 20px;
 }
 
-header a{
+nav a{
     border-radius: 20px;
     padding: 10px;
     text-decoration: none;
     color: #DDD;
 }
 
-header a:hover{
-    background-color: #202020;
+nav a:hover{
+    background-color: #303030;
 }
 

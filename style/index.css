@@ -1,29 +1,4 @@
 .index_menu_planet {
-    margin: 5%;
-}
-
-.index_menu_planet img{
-    width: 100%;
-}
-
-.planet_card {
-    display: inline-block;
-    width: 8%;
-    padding: 0.5%;
-    margin: 0.5%;
-
-    border-radius: 20px;
-}
-
-.planet_card p {
-    text-align: center;
-    color: #DDD;
-    font-family: monospace;
-    font-size: 2vw;
-
-    margin: 10% 0;
-}
-
-.planet_card:hover {
-    background-color: #202020;
+    display: flex;
+    justify-content: space-around;
 }
